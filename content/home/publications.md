@@ -10,7 +10,8 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Trends of anxiety and performance of preventive measures
+ among Taiwanese citizens during COVID-19 pandemic.'
 
 content:
   # Page type to display. E.g. post, talk, publication...
