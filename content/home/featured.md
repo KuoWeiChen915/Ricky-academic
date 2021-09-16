@@ -19,9 +19,9 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "Chen, K. W."
     category: ""
-    publication_type: ""
+    publication_type: "PEER-REVIEWED JOURNAL"
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
