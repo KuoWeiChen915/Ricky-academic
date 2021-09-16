@@ -58,7 +58,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "kuowei.chen915@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -66,4 +66,4 @@ highlight_name: true
 
 My name is Kuo-Wei Chen, I am glad that you are interested in my information. I finished my B.S. in Psychology at National Dong Hwa University in 2019. My undergraduate thesis focused on the influence of personality traits on the cognitive bias when people are making decision. Previously I was a research assistant at National Taiwan Normal University where I researched the influence of ketamine on teenagers’ cognition. I recently published one paper about the trends of anxiety and adoption of preventive measures for COVID-19 during COVID outbreak at the Taiwan Journal of Public Health.
 
-{{< icon name="download" pack="fas" >}} My {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
